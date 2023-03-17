@@ -1,1 +1,3 @@
-# terraform-Grenke-Infoblox: This Module finds an available IP Adress in a list of networks and creates an A-Recod for it
+# terraform-Grenke-Infoblox: 
+
+This Module triggers IPAM to find an available IP Address in a list of networks, then it creates an A-Recod for it.
