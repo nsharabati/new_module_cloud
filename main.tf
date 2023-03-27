@@ -4,9 +4,9 @@ provider "infoblox" {
   password = var.password
 }
 
-provider "random" {
+#provider "random" {
   # Configuration options
-}
+#}
 
 resource "infoblox_ipv4_allocation" "alloc1" {
   network_view = "default"
